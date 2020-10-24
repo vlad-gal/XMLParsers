@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.example.com/students"
+          xsi:schemaLocation="http://www.example.com/students students.xsd">
+
+    <student login="IvanIv231">
+        <name>Ivan Grishenko</name>
+        <telephone>375448972312</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Osava</city>
+            <street>Lenina 21</street>
+        </address>
+    </student>
+    <student login="KironGor95" faculty="ksis">
+        <name>Kirill Gonchar</name>
+        <telephone>375298723455</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Soligorsk</city>
+            <street>Shahterov 75</street>
+        </address>
+    </student>
+    <student login="AstapBend12" faculty="geo">
+        <name>Vasiliy Astapenko</name>
+        <telephone>375297775412</telephone>
+        <address>
+            <country>Belarus</country>
+            <city>Novopolatsk</city>
+            <street>Neftehimik 584</street>
+        </address>
+    </student>
+    <student login="LazutaPuz23" faculty="mmf">
+        <name>alexandr Lazuta</name>
+        <telephone>37529334276</telephone>
+        <address>
+            <country>Russia</country>
+            <city>Chelyabinsk</city>
+            <street>Magnitnaya 64</street>
+        </address>
+    </student>
+
+</students>
